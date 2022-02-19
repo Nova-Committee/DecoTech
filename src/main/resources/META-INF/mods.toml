@@ -1,0 +1,12 @@
+modLoader = "javafml"
+loaderVersion = "[38,)"
+license = "AGPL v3"
+[[mods]]
+modId = "decotech"
+version = "${file.jarVersion}"
+displayName = "Deco Tech"
+#logoFile="logo.png"
+credits = ""
+authors = "Radekemia"
+description = '''
+'''
